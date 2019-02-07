@@ -1,0 +1,15 @@
+{
+  "name": "lnedit",
+  "version": "0.0.1",
+  "description": "A simple symlink editor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cole Gannon",
+  "license": "MIT",
+  "bin": {
+    "lnedit": "./cli.js"
+  },
+  "dependencies": {
+  }
+}
